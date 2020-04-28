@@ -1,4 +1,4 @@
-It is about an image which gives the real-time streaming with 2 different frames 
+It is about a docker-image which gives the real-time streaming with 2 different frames 
   - one frame consist of simple real-time streaming , and
   - the other will stream with original and three basic colour in single frame(red,blue and green)
   
